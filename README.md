@@ -18,7 +18,7 @@ Simple Tensorflow implementation of "Cross Parallax Attention Network for Stereo
        ├── train_patches_96_288 (patch size 96x288)
            ├── xxx_L.jpg (format doesn't matter, but 'name_L','name_R' must be corresponding. e.g. patch_1_L.png and patch_1_R.png)
            ├── xxx_R.png
-           ├──yyy_L.jpg
+           ├── yyy_L.jpg
            └── ...
        ├── test
            ├── aaa_L.jpg 
